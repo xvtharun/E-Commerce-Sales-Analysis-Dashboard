@@ -98,13 +98,6 @@ The main objective of this dashboard is to:
 
 ---
 
-## 👨‍💻 Author
-
-**Tharun**
-
-GitHub: Add your GitHub profile link here
-
----
 
 ## ⭐ If you like this project
 
